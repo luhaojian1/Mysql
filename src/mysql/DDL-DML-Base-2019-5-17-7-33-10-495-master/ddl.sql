@@ -2,7 +2,7 @@
 --  显示所有数据库  
 show databases;
 --  进入某个数据库  
-use dbName;
+use student_examination_sys;
 --  创建一个数据库  
 create database student_examination_sys;
 --  创建指定字符集的数据库  
